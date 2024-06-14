@@ -1,0 +1,42 @@
+Litoral de São Paulo - Aplicativo Android
+Descrição
+Este aplicativo Android fornece informações sobre as praias, cidades e atrações turísticas do litoral do estado de São Paulo, Brasil.
+
+Funcionalidades
+Listagem de praias
+Detalhes de cidades costeiras
+Atrações turísticas
+Informações sobre a fauna e flora locais
+Requisitos
+Android Studio
+Gradle
+SDK do Android
+Instalação
+Clone o repositório:
+
+bash
+Copy code
+git clone https://github.com/seu-usuario/litoral-sp-app.git
+Abra o projeto no Android Studio:
+
+Selecione File > Open... e escolha o diretório do projeto.
+Instale as dependências:
+
+O Gradle cuidará disso automaticamente quando você abrir o projeto.
+Construa e execute o aplicativo:
+
+Conecte seu dispositivo Android ou use um emulador.
+Clique em Run > Run 'app'.
+Uso
+Abra o aplicativo.
+Navegue pelas diferentes seções para explorar as praias, cidades e atrações turísticas.
+Contribuição
+Faça um fork do projeto.
+Crie uma branch (git checkout -b feature/sua-feature).
+Faça commit das suas alterações (git commit -m 'Adiciona nova feature').
+Faça push para a branch (git push origin feature/sua-feature).
+Abra um Pull Request.
+Licença
+Licença MIT.
+
+Este README fornece as informações básicas necessárias para começar a trabalhar no projeto de um aplicativo Android sobre o litoral de São Paulo.
